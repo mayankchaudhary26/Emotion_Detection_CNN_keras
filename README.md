@@ -1,5 +1,5 @@
 # Emotion_Detection_CNN_keras
-
+We will use 7 emotions namely - 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise' to train and test(validation) our algorithm using Convolution Neural Networks.
 
 ![Screenshot (237)](https://user-images.githubusercontent.com/56837137/129614646-5261538f-e67e-45ef-969d-91cce64fc103.png)
 <br>
