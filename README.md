@@ -4,7 +4,9 @@ We will use 7 emotions namely - 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 
 ![Screenshot (237)](https://user-images.githubusercontent.com/56837137/129614646-5261538f-e67e-45ef-969d-91cce64fc103.png)
 <br>
 <br>
+![image](https://user-images.githubusercontent.com/56837137/131181675-9a6502e6-9b94-4417-b9fc-453b8117ed03.png)
 <br>
+
 ### Given dataset of different expressions on kaggle:
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
